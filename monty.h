@@ -99,6 +99,5 @@ void opcode(stack_t **stack, char *str, unsigned int count);
 
 int is_digit(char *string);
 int isnumber(char *str);
-int isascii(int c);
 
 #endif /* MONTY_H */
