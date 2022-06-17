@@ -34,25 +34,6 @@ At the end of this project, We were able to solve these questions:
 18. Read the two digits from stdin, multiply them, and print the result (at bf/dir)
 19. Multiply two digits given by the user. (at bf/dir)
 
-## Results :chart_with_upwards_trend:
-
-| Filename |
-| ------ |
-| [bf](https://github.com/edward0rtiz/monty/tree/df9ab3ad3ae6d985abefed3d2b5919577256f8b5/bf)|
-| [builtins1.c](https://github.com/edward0rtiz/monty/blob/df9ab3ad3ae6d985abefed3d2b5919577256f8b5/builtins1.c)|
-| [builtins2.c](https://github.com/edward0rtiz/monty/blob/df9ab3ad3ae6d985abefed3d2b5919577256f8b5/builtins2.c)|
-| [builtins3.c](https://github.com/edward0rtiz/monty/blob/df9ab3ad3ae6d985abefed3d2b5919577256f8b5/builtins3.c)|
-| [error_1.c](https://github.com/edward0rtiz/monty/blob/df9ab3ad3ae6d985abefed3d2b5919577256f8b5/error_1.c)|
-| [error_2.c](https://github.com/edward0rtiz/monty/blob/df9ab3ad3ae6d985abefed3d2b5919577256f8b5/error_2.c)|
-| [free.c](https://github.com/edward0rtiz/monty/blob/df9ab3ad3ae6d985abefed3d2b5919577256f8b5/free.c)|
-| [get_ops.c](https://github.com/edward0rtiz/monty/blob/df9ab3ad3ae6d985abefed3d2b5919577256f8b5/get_ops.c)|
-| [linked_list.c](https://github.com/edward0rtiz/monty/blob/df9ab3ad3ae6d985abefed3d2b5919577256f8b5/linked_list.c)|
-| [main_monty.c](https://github.com/edward0rtiz/monty/blob/df9ab3ad3ae6d985abefed3d2b5919577256f8b5/main_monty.c)|
-| [monty.h](https://github.com/edward0rtiz/monty/blob/df9ab3ad3ae6d985abefed3d2b5919577256f8b5/monty.h)|
-| [stacks.c](https://github.com/edward0rtiz/monty/blob/df9ab3ad3ae6d985abefed3d2b5919577256f8b5/stacks.c)|
-| [str3.c](https://github.com/edward0rtiz/monty/blob/df9ab3ad3ae6d985abefed3d2b5919577256f8b5/str3.c)|
-| [tokerr.c](https://github.com/edward0rtiz/monty/blob/df9ab3ad3ae6d985abefed3d2b5919577256f8b5/tokerr.c)|
-| [bytecodes](https://github.com/edward0rtiz/monty/tree/df9ab3ad3ae6d985abefed3d2b5919577256f8b5/bytecodes)|
 
 
 ## Additional info :construction:
